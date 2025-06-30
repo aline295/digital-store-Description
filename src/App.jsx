@@ -4,7 +4,7 @@ import HomePage from './pages/homePage';
 import ProductViewPage from './pages/productViewPage';
 import CategoriasPage from './pages/categoriasPage';
 import MeusPedidosPage from './pages/meusPedidosPage';
-import ProductPage from './pages/productPage'; 
+import ProductPage from './pages/ProductPage'; 
 
 
 function App() {
